@@ -1,0 +1,11 @@
+crewai
+langchain-google-genai
+python-dotenv
+pydantic
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+bcrypt
+python-jose[cryptography]
+python-multipart
